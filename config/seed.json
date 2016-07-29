@@ -1,0 +1,23 @@
+{
+  "development": {
+  "Pokemon":
+  [
+  {
+    "name":"Pikachu",
+    "power":"lighting bolt"
+  },
+  {
+    "name":"Gobbletron",
+    "power":"Gobbling"
+  },
+  {
+    "name":"Scoobaroo",
+    "power":"Racing"
+  }
+  ]
+},
+  "test": {},
+
+  "production": {}
+
+}
